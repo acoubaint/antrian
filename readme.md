@@ -8,3 +8,4 @@ antrian.panggilAngka({
   loket: 2
 })
 ```
+
