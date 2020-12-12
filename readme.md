@@ -7,4 +7,5 @@ antrian.panggilAngka({
   angka: 1,
   loket: 2
 })
+
 ```
