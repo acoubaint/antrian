@@ -6,5 +6,6 @@ Pada console coba jalankan
 antrian.panggilAngka({
   angka: 1,
   loket: 2
+  
 })
 ```
